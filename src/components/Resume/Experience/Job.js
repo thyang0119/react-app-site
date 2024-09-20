@@ -11,7 +11,7 @@ const Job = ({
   <article className="jobs-container">
     <header>
       <h4>
-        <a href={url}>{name}</a> - {position}
+        {url ? <a href={url}>{name}</a> : name} - {position}
       </h4>
       <p className="daterange">
         {' '}

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import Course from './Courses/Course';
 
+// eslint-disable-next-line no-unused-vars
 const getRows = (courses) => courses
   .sort((a, b) => {
     let ret = 0;
@@ -20,13 +21,9 @@ const getRows = (courses) => courses
     />
   ));
 
-const Courses = ({ data }) => (
+// eslint-disable-next-line no-unused-vars
+const Courses = ({ data = [] }) => (
   <div className="courses">
-    <div className="link-to" id="courses" />
-    <div className="title">
-      <h3>Selected Courses</h3>
-    </div>
-    <ul className="course-list">{getRows(data)}</ul>
   </div>
 );
 

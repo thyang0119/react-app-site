@@ -1,9 +1,10 @@
 import React, { useState, useCallback, useEffect } from 'react';
 
-import Table from './Table';
+// import Table from './Table';
 import initialData from '../../data/stats/site';
 
 const Stats = () => {
+  // eslint-disable-next-line no-unused-vars
   const [data, setResponseData] = useState(initialData);
   // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
@@ -29,8 +30,8 @@ const Stats = () => {
 
   return (
     <div>
-      <h3>Some stats about this site</h3>
-      <Table data={data} />
+      {/* <h3>Some stats about this site</h3> */}
+      {/* <Table data={data} /> */}
     </div>
   );
 };

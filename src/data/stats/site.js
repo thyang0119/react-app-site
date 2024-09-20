@@ -5,11 +5,11 @@ import dayjs from 'dayjs';
  curl https://api.github.com/repos/mldangelo/personal-site
  */
 const data = [
-  {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
-  },
+  // {
+  //   label: 'Stars this repository has on github',
+  //   key: 'stargazers_count',
+  //   link: 'https://github.com/mldangelo/personal-site/stargazers',
+  // },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
