@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/react-app-site/static/css/main.3fc8ac9a.css",
-    "main.js": "/react-app-site/static/js/main.990ef33e.js",
+    "main.js": "/react-app-site/static/js/main.a30d9015.js",
     "static/js/117.28d2e728.chunk.js": "/react-app-site/static/js/117.28d2e728.chunk.js",
     "static/js/478.87ea1043.chunk.js": "/react-app-site/static/js/478.87ea1043.chunk.js",
     "static/js/922.a9748d02.chunk.js": "/react-app-site/static/js/922.a9748d02.chunk.js",
-    "static/js/161.91e35be9.chunk.js": "/react-app-site/static/js/161.91e35be9.chunk.js",
+    "static/js/161.0e16677e.chunk.js": "/react-app-site/static/js/161.0e16677e.chunk.js",
     "static/js/348.9d2e694d.chunk.js": "/react-app-site/static/js/348.9d2e694d.chunk.js",
     "static/js/248.50d714c5.chunk.js": "/react-app-site/static/js/248.50d714c5.chunk.js",
     "static/js/209.e1f55257.chunk.js": "/react-app-site/static/js/209.e1f55257.chunk.js",
     "index.html": "/react-app-site/index.html",
     "main.3fc8ac9a.css.map": "/react-app-site/static/css/main.3fc8ac9a.css.map",
-    "main.990ef33e.js.map": "/react-app-site/static/js/main.990ef33e.js.map",
+    "main.a30d9015.js.map": "/react-app-site/static/js/main.a30d9015.js.map",
     "117.28d2e728.chunk.js.map": "/react-app-site/static/js/117.28d2e728.chunk.js.map",
     "478.87ea1043.chunk.js.map": "/react-app-site/static/js/478.87ea1043.chunk.js.map",
     "922.a9748d02.chunk.js.map": "/react-app-site/static/js/922.a9748d02.chunk.js.map",
-    "161.91e35be9.chunk.js.map": "/react-app-site/static/js/161.91e35be9.chunk.js.map",
+    "161.0e16677e.chunk.js.map": "/react-app-site/static/js/161.0e16677e.chunk.js.map",
     "348.9d2e694d.chunk.js.map": "/react-app-site/static/js/348.9d2e694d.chunk.js.map",
     "248.50d714c5.chunk.js.map": "/react-app-site/static/js/248.50d714c5.chunk.js.map",
     "209.e1f55257.chunk.js.map": "/react-app-site/static/js/209.e1f55257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.990ef33e.js"
+    "static/js/main.a30d9015.js"
   ]
 }
