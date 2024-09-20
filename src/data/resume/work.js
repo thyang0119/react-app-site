@@ -17,6 +17,7 @@ const work = [
     position: 'Software Engineer',
     url: 'https://www.tesla.com/energy/design',
     startDate: '2021-02-11',
+    endDate: '2024-06-14',
     summary: `As a critical member of Tesla’s Energy Fulfillment team, 
       I played a central role in the development of a cutting-edge web platform that allows customers to select and customize Tesla’s solar energy products. 
       The platform not only guides users through the process of choosing solar solutions but also offers comprehensive post-purchase support services to ensure a smooth transition from product selection to installation. 
@@ -36,7 +37,8 @@ const work = [
     name: 'Ryzlinke America',
     position: 'Software Engineer',
     // url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
+    startDate: '2020-07-20',
+    endDate: '2021-02-13',
     summary: `At Ryzlinke America, 
       I contributed to the development of internal tools that improved efficiency in managing human resources and employee access. 
       As part of a small, highly collaborative team, I worked on creating and maintaining a full-stack web application that supports core HR processes, 
