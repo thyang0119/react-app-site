@@ -2,7 +2,7 @@ const data = [
   {
     title: 'Pantry Check App',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/freshyDemo.png',
     date: '2024-08-01',
     link: 'https://github.com/3rd-Eye-FoodTag/freshy',
     desc:
